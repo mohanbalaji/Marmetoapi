@@ -8,5 +8,4 @@ const knex = require('knex')({
       database : 'shop'
     }
   });
-
  module.exports = knex;
